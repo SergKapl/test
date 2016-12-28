@@ -1,1 +1,2 @@
-/Ignore/test ignore 2.txt
+/Ignore/*.txt
+/Ignore/test ignore.txt
